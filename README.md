@@ -5,9 +5,13 @@ Raw dataset: https://www.kaggle.com/datasets/anumoymodak/updated-amazon-diwali-s
 I’ve reviewed your Power BI Amazon Sales Analysis dashboard (PDF). Here’s a clear, professional breakdown you can use for presentation, resume, or interviews:
 
 📊 Amazon Sales Analysis – Key Insights
+
 💰 Overall Performance
+
 Total Revenue: ₹314.71M
+
 Total Quantity Sold: 13K units
+
 Total Unit Price Value: ₹105.13M
 
 👉 This indicates strong overall sales performance with high-value transactions.
