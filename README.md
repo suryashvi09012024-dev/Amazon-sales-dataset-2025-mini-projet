@@ -93,5 +93,10 @@ If you want, I can also:
 
 Just tell me 👍
 
-<img width="1698" height="682" alt="Screenshot 2026-03-21 194918" src="https://github.com/user-attachments/assets/055eaa22-55b2-45d6-a71e-d38661984a60" />
+Interactive dashboards
+
+<img width="1698" height="682" alt="Screenshot 2026-03-21 194918" src="https://github.com/user-attachments/assets/055eaa22-55b2-45d6-a71e-d38661984a60" />  
+
+<img width="1059" height="600" alt="Screenshot 2026-03-23 193945" src="https://github.com/user-attachments/assets/e4021954-302c-4132-8b05-afbebc563847" />
+
 
