@@ -1,6 +1,7 @@
                    Amazon _Diwali _ Sales2025 Dataset
+                   
 Mini Project – Ms Excel And Power BI 
-Raw dataset: https://www.kaggle.com/datasets/anumoymodak/updated-amazon-diwali-sales-dataset-2025
+
 
 I’ve reviewed your Power BI Amazon Sales Analysis dashboard (PDF). Here’s a clear, professional breakdown you can use for presentation, resume, or interviews:
 
