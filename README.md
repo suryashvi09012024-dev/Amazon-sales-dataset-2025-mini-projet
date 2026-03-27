@@ -92,3 +92,6 @@ If you want, I can also:
 ✅ Add advanced insights (DAX formulas, KPIs, storytelling)
 
 Just tell me 👍
+
+<img width="1698" height="682" alt="Screenshot 2026-03-21 194918" src="https://github.com/user-attachments/assets/055eaa22-55b2-45d6-a71e-d38661984a60" />
+
